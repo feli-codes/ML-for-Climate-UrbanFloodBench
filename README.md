@@ -63,6 +63,7 @@ This project develops and evaluates spatio-temporal Graph Neural Network (GNN) m
 | `01_Model_Comparison.xlsx` | Aggregated SRMSE results across all models |
 | `descriptive_data_analysis.ipynb` | Dataset statistics and rainfall analysis |
 | `final-presentation-submission.pptx` | Final presentation slides |
+| `ML for Tackling Climate Change Team Log (Samuel Zhang).xlsx` | Peer evaluation as filled out by Samuel Zhang |
 | `README.md` | This file |
 
 > **Note:** All SRMSE evaluation notebooks are built so that they match the evaluation code and procedure in the Kaggle Challenge. Link to Kaggle competition: https://www.kaggle.com/competitions/urban-flood-modelling/overview. Training notebooks are built so that they are comparable to each other in terms of evaluation.
